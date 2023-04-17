@@ -1,0 +1,9 @@
+[submodule "datalib"]
+	path = datalib
+	url = .\\DataLib\\
+[submodule "user-service"]
+	path = user-service
+	url = .\\user-service\\
+[submodule "gateway-service"]
+	path = gateway-service
+	url = .\\gateway-service\\
